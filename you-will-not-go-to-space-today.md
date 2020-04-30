@@ -50,3 +50,5 @@ Jacquie Grindrod is a developer advocate for HashiCorp where she's able to apply
 	- "Try and try and try again"
 	- Run it on different machines manually
 	- Run through the levels by hand
+- Are there technology selections you made then that knowing more now you'd select others?
+	- Initially built everything into one 600 line script. Would go back in the future and clean that up before tackling networking.
