@@ -6,6 +6,9 @@ Ian Coldwater (Lead Platform Security Engineer @ Heroku) | @IanColdwater
 
 - Their username is a SQL injection string (lol)
 - "Security isn't a blocker. It's integral."
+- We are all on the same team working toward the same goals
+	- We can do better, by ourselves and with each other
+- Sounds like Heroku (at least Ian's team) has a really good developer culture with healthy inter-team communication
 
 ## Root Cause Analysis
 
@@ -23,6 +26,10 @@ Ian Coldwater (Lead Platform Security Engineer @ Heroku) | @IanColdwater
 - Create, discuss, and share blameless postmortems
 - Document as you go; make it a priority
 - Strive to get teams thinking/communicating on the same page
+- "Chop trees, carry water" - Kubernetes Community
+	- Put in work
+	- Do things together, for each other
+	- Be humble
 - Understand that not everyone thinks like you
 	- DevOps people:
 		- Understand that not everyone wants to quickly slap together software that works quickly but has super open/insecure defaults
@@ -30,3 +37,5 @@ Ian Coldwater (Lead Platform Security Engineer @ Heroku) | @IanColdwater
 	- Security people:
 		- Keep up with the latest trends/technology so you can understand what's being built and
 		- Try not to be "the Team of No" (learn to talk to people on their level and have conversations instead of just vetoing things)
+- Don't be afraid to shake things up or speak up
+	- Breaking down walls doesn't happen silently
