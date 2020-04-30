@@ -49,5 +49,3 @@ Matt Stratton is a Transformation Specialist at Red Hat and a long-time member o
 	1. Requests
 		- The actual request that would enrich my life without demanding
 - "If you want to go fast, go alone. If you want to go far, go together." - African proverb
-
-## Q&A
