@@ -21,4 +21,33 @@ Matt Stratton is a Transformation Specialist at Red Hat and a long-time member o
 
 ## General Notes
 
--
+- Having a culture of empathy and psychological safety is proven to increase productivity and overall company achievement
+- "Psychological safety is a sense of confidence that the team will not embarrass, reject, or punish someone for speaking up." - Amy Edmondson
+- Joking around with people on your team who are friends isn't always perceived by outside parties as being "in jest" and can absolutely prevent people from wanting to share their thoughts or issues
+- Approach conflict as a collaborator, not as an adversary
+	- Nobody thinks they're the villain of the story so you have to reframe everything and try to see what you're saying and doing from multiple perspectives
+- Model vulnerability to create emotional bonds
+- Being "blameless" is almost impossible
+	- We, as humans, use blame as a way to "give voice to uncomfortable things"
+	- Instead of becoming "blameless" become "blame aware"
+- A "facilitator" works to help everyone speak roughly an equal amount
+	- Oh healthy teams, everyone has a roughly-equivalent voice
+- As a facilitator, try to step outside the conversation to introduce new perspectives
+	- You are there to help, not to take sides
+- A facilitator should speak as little as possible
+- Conflict is going to happen but it can happen in a way that helps people feel comfortable and heard
+- "It's hard to make progress until people feel heard."
+- Use the phrase "just like me" when analyzing and communicating situations
+- Four levels of nonviolent communication
+	1. Observations
+		- What you and everyone involved see, hear, etc. but only from a factual level
+	1. Feelings
+		- You can't control or stop feelings
+		- An emotion or sensation (not a thought) in relation to what you just observed
+	1. Needs
+		- What I need or value that causes my feelings
+	1. Requests
+		- The actual request that would enrich my life without demanding
+- "If you want to go fast, go alone. If you want to go far, go together." - African proverb
+
+## Q&A
