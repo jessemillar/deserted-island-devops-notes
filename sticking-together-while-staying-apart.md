@@ -22,6 +22,34 @@ Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer o
 
 - "Everything's a little bit broken all the time but it somehow keeps working"
 - "Million-to-one chances crop up nine times out of ten"
+- You can't really separate humans from complicated systems
+	- They called this "socio-technical systems"
+- Conway's Law
+	- Designed systems represent an organization's communication structure
+- Think about a problem with one of your systems
+	- How did you find out there was a problem?
+	- How surprising was this incident?
+
+## Common Ground
+
+- "Teams that do well dealing with impact are those that have a strong common ground."
+- Common ground means:
+	- You have a "basic compact" setting availability of personnel
+	- Goal alignement/commitment
+	- Inter-predictability
+	- Sustain and repair
+- Have blameless postmortems
+	- Don't find a scapegoat
+
+## Terminology
+
+- Sharp End
+	- Closest to the work, practitioners
+	- Constantly building and destroying systems
+	- Strong signaling
+	- Improve systems
+- Blunt End
+	- Removed from the experience; upstream decision makers
 
 ## Components of Resiliency
 
@@ -29,7 +57,7 @@ Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer o
 	- How quickly back to normal after a surprise
 	- Work done ahead of time
 1. Robustness
-	- The ability to withstand and absorb well-modeleted disturbances
+	- The ability to withstand and absorb well-modeled disturbances
 1. Graceful extensibility
 	- The ability to stretch with challenges to operational boundaries
 1. Sustained adaptability
@@ -37,8 +65,8 @@ Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer o
 
 ## Bones
 
+- Bones are naturally resilient
 - Bones are constantly created and destroyed
 - Bones are managed subconsciously
 - Bones regrow on their own
 	- If you set a bone and create good conditions for its regrowth it does much better
-- Bones are naturally resilient
