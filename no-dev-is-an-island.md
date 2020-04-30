@@ -37,7 +37,7 @@ Nočnica Fee (Developer Advocate @ New Relic) | @nocnicafee
 # Q&A
 
 - "Any tips for making docs honest and verbose without becoming a wall of text that's daunting to write/read?"
-	- DaveOps#1756
+	- @DaveOps#1756
 		- "Break a paragraph where there are any commas into bullets and it's like 100% more readable"
 		- https://www.sohamkamani.com/blog/how-to-write-good-documentation/
 	- @weirdoqueen#2944
