@@ -19,9 +19,9 @@ Mia Moore (Developer Advocate @ IBM) | @xomiamoore
 - Try not to move your community between tools multiple times
 - You get what you give in a community
 
-# Creating a Community
+## Creating a Community
 
-## Getting Started
+### Getting Started
 
 1. Find an opportunity for a community
 	- Look for a gap where you wish there was a community but you can't find one
@@ -30,14 +30,14 @@ Mia Moore (Developer Advocate @ IBM) | @xomiamoore
 	- Don't just build a community for yourself
 1. Request iteration and feedback
 
-## Maintaining the Community
+### Maintaining the Community
 
 1. Create a code of conduct with
 1. Use inclusive, welcoming language on your public-facing text
 1. Value the community's input but have some final decision makers
 1. Keep an eye out for bad actors and enforce the code of conduct
 
-## Be a Good Citizen
+### Be a Good Citizen
 
 - Follow the rules
 - Assume the best in people (default to empathy)
@@ -45,3 +45,16 @@ Mia Moore (Developer Advocate @ IBM) | @xomiamoore
 - Celebrate successes
 - Give to others freely
 	- "All gifts must be given without strings attached"
+
+## Q&A
+
+- How to make virtual communication more human?
+	- Try to clarify what you're saying so it can't be misconstrued
+	- In text communication, emoji help convey tone
+- Tips for building communities in a corporate context?
+	- Try to bridge gaps between teams and talk to people outside of your area/school of thought
+- "How do you deal with 'social burnout'. I notice that every time I've been a mod/community leader in a digital community, the checking of the community posts felt like a chore really fast, which I rarely have as a 'normal user'. I think it has to do with the expectation to always be 'on' as a community organiser. Do you recognise this? And do you have tips to deal with it?"
+	- Have more people that help with moderating
+	- You don't need 24/7 moderation
+	- There's a chance building a community might not be "for you"
+		- Maybe you instead want to be an active community member instead
