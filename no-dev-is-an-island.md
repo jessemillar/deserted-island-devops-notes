@@ -20,6 +20,11 @@ Nočnica Fee (Developer Advocate @ New Relic) | @nocnicafee
 	- Use security groups
 	- Pick your heroes who hold the keys to production
 - Embrace infrastructure as code
+	- This helps explain your infrastructure to other people on your team instead of having one subject matter expert who might get hit by a bus
+- CI/CD is just as possible with serverless
+	- You have to simulate the serverless environment which can be slightly tricky
+- Use your users to experiment via canaries
+- Plan ahead for observability
 
 # Documentation
 
@@ -28,3 +33,12 @@ Nočnica Fee (Developer Advocate @ New Relic) | @nocnicafee
 - Be radically honest in your docs
 	- Tell the *real* story of why it's build the way it is
 		- e.g. "Susan set up this stack and then left and we don't feel smart enough to work on it even though it works great"
+
+# Q&A
+
+- "Any tips for making docs honest and verbose without becoming a wall of text that's daunting to write/read?"
+	- DaveOps#1756
+		- "Break a paragraph where there are any commas into bullets and it's like 100% more readable"
+		- https://www.sohamkamani.com/blog/how-to-write-good-documentation/
+	- @weirdoqueen#2944
+		- "I like to write two sets of docs if I can, super in-depth one and quick-ref one; one is for people who REALLY want to know the nitty gritty, other is 'I just want to know how to do x'"
