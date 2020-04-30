@@ -20,6 +20,7 @@ Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer o
 
 ## General Notes
 
+- The slide deck [is available here](https://speaking.crayzeigh.com/KLBLgb/sticking-together-while-staying-apart-resilience-in-the-time-of-global-pandemic)
 - "Everything's a little bit broken all the time but it somehow keeps working"
 - "Million-to-one chances crop up nine times out of ten"
 - You can't really separate humans from complicated systems
