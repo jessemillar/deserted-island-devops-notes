@@ -96,3 +96,11 @@ Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer o
 - Bones are managed subconsciously
 - Bones regrow on their own
 	- If you set a bone and create good conditions for its regrowth it does much better
+
+## Q&A
+
+- How do you feel about the terms "postmortem" vs "retrospective"
+	- Doesn't love "postmortem" but recognizes that it's basically the industry standard term
+	- Call it a retrospective if you can, but don't unnecessarily fight the norm
+	- @Quinncuatro#0653
+		- Met a gentleman from Ubisoft (https://twitter.com/cornazano) who calls them "post incident learning opportunities."
