@@ -29,17 +29,43 @@ Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer o
 - Think about a problem with one of your systems
 	- How did you find out there was a problem?
 	- How surprising was this incident?
+- Look at Google's findings for functional teams
+- "Resilience is about creating the conditions that maximize everyone's potential"
+- "Community Building *is* Resilience Engineering"
+
+## Strong Communities
+
+- Strong communities are:
+	- Diverse
+		- Lots of knowledge and perspectives
+	- High trust and safety
+		- You can be yourself
+	- They sustain and repair themselves
+		- This is why we have codes of conduct to make safe spaces
+	- Inter-predictability
+		- You learn how people operate inside the community
+	- Communities are made of loosely coupled, layered networks/communities
+- Look to the current pandemic for examples
+	- Grocery stores have specific hours for vulnerable shoppers and no government made stores do that
+	- School districts are delivering meals to kids that are at home
+	- People are volunteering and sewing face masks
 
 ## Common Ground
 
 - "Teams that do well dealing with impact are those that have a strong common ground."
 - Common ground means:
 	- You have a "basic compact" setting availability of personnel
-	- Goal alignement/commitment
+	- Goal alignment/commitment
 	- Inter-predictability
 	- Sustain and repair
+
+### Building Common Ground
+
 - Have blameless postmortems
-	- Don't find a scapegoat
+	- Don't find a scapegoat, instead identify learnings
+- Chaos engineering
+- Game days
+- Model vulnerability
 
 ## Terminology
 
