@@ -1,4 +1,4 @@
-# Building Virtual Community
+# [Building Virtual Community](https://desertedisland.club/agenda/#miamoore)
 
 Mia Moore (Developer Advocate @ IBM) | @xomiamoore
 

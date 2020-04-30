@@ -1,4 +1,4 @@
-# KEYNOTE: Bridge Construction Kit: DevOps and Security Don't Have to Be Islands
+# [KEYNOTE: Bridge Construction Kit: DevOps and Security Don't Have to Be Islands](https://desertedisland.club/agenda/#iancoldwater)
 
 Ian Coldwater (Lead Platform Security Engineer @ Heroku) | @IanColdwater
 

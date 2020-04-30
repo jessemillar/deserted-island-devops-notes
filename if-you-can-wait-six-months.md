@@ -1,4 +1,4 @@
-# If You Can Wait 6 Months, You Should
+# [If You Can Wait 6 Months, You Should](https://desertedisland.club/agenda/#davidsudia)
 
 David Sudia (Senior Swiss-Army Knife @ GoSpotCheck) | @thedevelopnik
 
