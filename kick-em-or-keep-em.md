@@ -21,6 +21,7 @@ Matt Stratton is a Transformation Specialist at Red Hat and a long-time member o
 
 ## General Notes
 
+- Slide deck [is available here](https://speaking.mattstratton.com/6CzUfc/kick-em-or-keep-em-collaborating-on-our-own-deserted-islands)
 - Having a culture of empathy and psychological safety is proven to increase productivity and overall company achievement
 - "Psychological safety is a sense of confidence that the team will not embarrass, reject, or punish someone for speaking up." - Amy Edmondson
 - Joking around with people on your team who are friends isn't always perceived by outside parties as being "in jest" and can absolutely prevent people from wanting to share their thoughts or issues
