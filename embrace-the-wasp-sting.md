@@ -46,5 +46,7 @@ Adrienne Braganza Tacke is a Filipina software engineer, international speaker, 
 	- Document things you found or learned in terms of debugging so future people don't have to struggle to, for example, find where the most useful logs are
 	- Have formalized retrospective meetings
 	- Foster a culture where everyone tries to learn from everyone else
+	- @richburroughs#1058
+		- I really like "What surprised you?" as a retro question too
 	- @jessemillar
-		- I’ve had great success in using personal postmortem documents when trying to learn from a failure (big or small). I found a simple postmortem template that I liked and spun up a public repo (public inside my company) to host all my docs. At the end of projects/sprints/individual feature development, I write a postmortem and share it out with the team. Sharing helps me be accountable, foster a culture that accepts failure at varying levels, and inspires other people to also self-examine and learn as much as possible from their individual experiences.
+		- I've had great success in using personal postmortem documents when trying to learn from a failure (big or small). I found a simple postmortem template that I liked and spun up a public repo (public inside my company) to host all my docs. At the end of projects/sprints/individual feature development, I write a postmortem and share it out with the team. Sharing helps me be accountable, foster a culture that accepts failure at varying levels, and inspires other people to also self-examine and learn as much as possible from their individual experiences.
