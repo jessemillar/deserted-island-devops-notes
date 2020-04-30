@@ -12,4 +12,8 @@ Kat Cosgrove is a chronic early-adopter of new technologies and a real-life cybo
 
 ## General Notes
 
--
+- Your car is actually an IoT device
+	- "Your car is a data center on wheels"
+- They built a Donkey Car and made the firmware able to be updated over the air
+	- A Donkey Car is an RC car with a Raspberry Pi that can be driven via AI
+- Watch the talk recording for loads of technical details

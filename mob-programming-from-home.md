@@ -28,7 +28,7 @@ Tori is a Developer Specialist at Nationwide. She and her teammates coach develo
 - How do you handle the logistics in the remote mob programming call? What happens if everyone starts talking over each other? How do you make sure the quieter person in the room gets a word in?
 	- Mute everyone. Have folks raise their hands when they want to talk. Or let everyone talk and have the quieter folks raising their hands trigger a mass mute.
 - Are there recommended mechanisms for handling rabbit holes, or for when folks begin diving too deep on things that can derail flow? Additionally, are there opportunities for sidebars for these sorts conversations, or is that antithetical to the mob programming practice?
-	- Minilla#5977
+	- @Minilla#5977
 		- "We've had some success by designating a person with the job of watching out for rabbit holes in other meetings, I wonder if that would work for mob programming"
 - How do you keep the introverts engaged? So it stays mob and not just 1-2 team members.
 	- Use async communication methods so you don't have to pipe up over voice chat
