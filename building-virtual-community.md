@@ -14,6 +14,7 @@ Mia Moore (they/she) is a Developer Advocate at IBM focusing on IBM Cloud and Ku
 
 ## General Notes
 
+- The slide deck [is available here](https://twitter.com/xoMiaMoore/status/1255909285583826944)
 - A lot of us currently feel like we're on a deserted island (thanks to the COVID-19 pandemic)
 - Community proves a means for people connected by common need, geography, or interest
 	- Allows members to share knowledge/empathy
