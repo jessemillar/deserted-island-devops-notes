@@ -13,8 +13,15 @@ Mia Moore (Developer Advocate @ IBM) | @xomiamoore
 	- How does your community provide value?
 	- How can you replicate that value in a digital medium to continue your community during the pandemic?
 		- Understand that things will be different, but that doesn't mean things will be worse (often things will be better)
+- Choose your community platform and tools consciously
+- Avoid forcing people to learn a new tool to use your community
+	- Don't give in to the "shiny toy" syndrome
+- Try not to move your community between tools multiple times
+- You get what you give in a community
 
 # Creating a Community
+
+## Getting Started
 
 1. Find an opportunity for a community
 	- Look for a gap where you wish there was a community but you can't find one
@@ -22,3 +29,19 @@ Mia Moore (Developer Advocate @ IBM) | @xomiamoore
 1. Welcome collaboration
 	- Don't just build a community for yourself
 1. Request iteration and feedback
+
+## Maintaining the Community
+
+1. Create a code of conduct with
+1. Use inclusive, welcoming language on your public-facing text
+1. Value the community's input but have some final decision makers
+1. Keep an eye out for bad actors and enforce the code of conduct
+
+## Be a Good Citizen
+
+- Follow the rules
+- Assume the best in people (default to empathy)
+- Show effort
+- Celebrate successes
+- Give to others freely
+	- "All gifts must be given without strings attached"
