@@ -47,6 +47,7 @@ Mia Moore (they/she) is a Developer Advocate at IBM focusing on IBM Cloud and Ku
 1. Use inclusive, welcoming language on your public-facing text
 1. Value the community's input but have some final decision makers
 1. Keep an eye out for bad actors and enforce the code of conduct
+1. Make sure there are people besides you in the community who can lead/maintain so that in your absence the community thrives.
 
 ### Be a Good Citizen
 
