@@ -32,12 +32,12 @@ Matt Stratton is a Transformation Specialist at Red Hat and a long-time member o
 	- We, as humans, use blame as a way to "give voice to uncomfortable things"
 	- Instead of becoming "blameless" become "blame aware"
 - A "facilitator" works to help everyone speak roughly an equal amount
-	- Oh healthy teams, everyone has a roughly-equivalent voice
-- As a facilitator, try to step outside the conversation to introduce new perspectives
+	- On healthy teams, everyone has a roughly-equivalent voice
+	- As a facilitator, try to step outside the conversation to introduce new perspectives
 	- You are there to help, not to take sides
-- A facilitator should speak as little as possible
+	- A facilitator should speak as little as possible
 - Conflict is going to happen but it can happen in a way that helps people feel comfortable and heard
-- "It's hard to make progress until people feel heard."
+	- "It's hard to make progress until people feel heard."
 - Use the phrase "just like me" when analyzing and communicating situations
 - Four levels of nonviolent communication
 	1. Observations

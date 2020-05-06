@@ -39,7 +39,7 @@ Katy lives in Oakland, CA (but has lived in lots of places from East Coast to We
 		- Write emails to people you wouldn't normally send emails to
 	- Use social media but also know when to step away from it
 		- "Fill your feeds with positive people"
-1. Make checking the news deliberate instead of "wandering into it" (unfollow news accounts)
+1. Make checking the news deliberate instead of "wandering into it" (unfollow news accounts on social media)
 1. Look for joy
 	- Make art
 	- Buy art

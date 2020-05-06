@@ -4,7 +4,7 @@ Tori Chu (Developer Specialist @ Nationwide) | @f00handle
 
 ## Abstract
 
-“Mob Programming” is a software development approach that goes beyond pairing to engaging your whole team and solving a problem together. See how this method is being used to teach cloud migration to dev teams that have rarely touched ops before - while migrating real-world enterprise apps in the process. With the sudden pivot to working from home, learn the best practices that were discovered to keep your now-distributed island villagers (coworkers and trainees) up to speed on new technology and concepts, whether WFH or not!
+"Mob Programming" is a software development approach that goes beyond pairing to engaging your whole team and solving a problem together. See how this method is being used to teach cloud migration to dev teams that have rarely touched ops before - while migrating real-world enterprise apps in the process. With the sudden pivot to working from home, learn the best practices that were discovered to keep your now-distributed island villagers (coworkers and trainees) up to speed on new technology and concepts, whether WFH or not!
 
 ## Speaker Biography
 
@@ -13,10 +13,10 @@ Tori is a Developer Specialist at Nationwide. She and her teammates coach develo
 ## General Notes
 
 - They're solving onboarding of new developers via virtual mob programming
-- Mob programming is when you have a bunch of people working together simultaneously on the same work at one computer with a rotational mechanic to allow multiple people to "drive" and get hands-on experience
-- Switch drivers frequently
+- Mob programming is when you have a bunch of people working together simultaneously on the same work at one computer with a rotation mechanic to allow multiple people to "drive" and get hands-on experience
+- Make sure you switch drivers frequently
 	- Set an alarm so you don't get sucked into debugging one problem
-- Remotely, do one hour driver windows
+- When mod programming remotely, do one hour driver windows
 	- In person, 15-20 minutes is suggested
 - http://mobprogramming.org/mob-programming-basics/
 - Do end of session/day/week retrospectives to make sure things are efficient and have value

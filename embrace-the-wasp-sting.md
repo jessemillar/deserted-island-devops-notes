@@ -23,7 +23,7 @@ Adrienne Braganza Tacke is a Filipina software engineer, international speaker, 
 
 ## General Notes
 
-- Failure is often our biggest fear (broken builds, breaking production, being the one at fault)
+- Failure is often our biggest fear (e.g. broken builds, breaking production, being the one at fault)
 - Why do we fear failure?
 	- It's not pleasant (brings shame, embarrassment, etc.)
 	- It feels like a blow to our professionalism
@@ -37,6 +37,7 @@ Adrienne Braganza Tacke is a Filipina software engineer, international speaker, 
 - You can harness failure/road blocks to motivate you to push through difficult things (e.g. I can't figure out an error code and that motivates me to slog through the docs for a few hours to learn and understand)
 - Everyone on a team needs to know that failure is not a bad thing
 	- Make this a frequent talking point to drive it home
+	- Blameless postmortems really help with this
 
 ## Q&A
 

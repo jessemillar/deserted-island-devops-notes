@@ -16,7 +16,7 @@ Nočnica Fee is a serverless developer advocate with New Relic. In her spare tim
 
 ## General Notes
 
-- Goes by Nica as well
+- Nočnica goes by Nica as well
 - They work on serverless monitoring
 - Serverless isn't a technology, it's "just a concept for who handles what"
 - "Serverless is hard for teams, like, actually surprisingly hard"
@@ -35,16 +35,16 @@ Nočnica Fee is a serverless developer advocate with New Relic. In her spare tim
 	- This helps explain your infrastructure to other people on your team instead of having one subject matter expert who might get hit by a bus
 - CI/CD is just as possible with serverless
 	- You have to simulate the serverless environment which can be slightly tricky
-- Use your users to experiment via canaries
+- Use your users to experiment via canary environments
 - Plan ahead for observability
 
 # Documentation
 
 - "Document the why" of your stack
 - Embrace the shame in your documentation
-- Be radically honest in your docs
-	- Tell the *real* story of why it's build the way it is
-		- e.g. "Susan set up this stack and then left and we don't feel smart enough to work on it even though it works great"
+	- Be radically honest in your docs
+		- Tell the *real* story of why it's build the way it is
+			- e.g. "Susan set up this stack and then left and we don't feel smart enough to work on it even though it works great"
 
 # Q&A
 

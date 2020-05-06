@@ -74,7 +74,7 @@ Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer o
 	- Closest to the work, practitioners
 	- Constantly building and destroying systems
 	- Strong signaling
-	- Improve systems
+	- The people improving systems
 - Blunt End
 	- Removed from the experience; upstream decision makers
 
@@ -97,6 +97,7 @@ Aaron Aldrich is a Developer Advocate at LaunchDarkly and a founding organizer o
 - Bones are managed subconsciously
 - Bones regrow on their own
 	- If you set a bone and create good conditions for its regrowth it does much better
+- Bones are like strong communities
 
 ## Q&A
 
