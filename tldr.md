@@ -1,10 +1,10 @@
 # Deserted Island DevOps TL;DR
 
-This repo contains my notes from the [Deserted Island DevOps tech conference](https://desertedisland.club) that was streamed on April 30, 2020. Over 7,000 people watched the stream on Twitch and there was a large amount of good conversation in the Twitch chat and the Discord server.
+On April 30th, 2020, I ([Jesse Millar](https://jessemillar.com)) attended the [Deserted Island DevOps tech conference](https://desertedisland.club). The conference was advertised as "a free one-day event celebrating DevOps and Animal Crossing." [There were 11 speakers](https://desertedisland.club/agenda/) covering a variety of DevOps-related topics. Over 7,000 people watched the stream on Twitch and there was a large amount of good conversation in the Twitch chat and the Discord server.
 
-Feel free to add your own notes or edit mine via PR! The thoughts and initiatives that were shared during the conference absolutely deserve a wide audience. Let's help the world learn!
+This repository contains full notes for every one of the talks. Below are some highlights organized by theme. Since the conference happened in the midst of the COVID-19 pandemic, a large portion of the speakers' remarks revolved around communication and community.
 
-https://aparker.io/posts/deserted-island-devops/
+Since this was the first, in-Animal Crossing conference, Austin Parker, the conference's organizer, wrote [a post](https://aparker.io/posts/deserted-island-devops/) detailing what went into making the conference a reality.
 
 ## Themes
 
@@ -15,7 +15,6 @@ https://aparker.io/posts/deserted-island-devops/
 - Talk to people outside your org/silo
 	- There's always someone willing to share/help and they might have knowledge or experience that you don't
 - Good communication takes practice
-- Create, discuss, and share blameless postmortems
 - Understand that not everyone thinks like you
 	- DevOps people:
 		- Understand that not everyone wants to quickly slap together software that works quickly but has super open/insecure defaults
@@ -26,21 +25,34 @@ https://aparker.io/posts/deserted-island-devops/
 - You get what you give in a community
 - Give to others freely
 	- "All gifts must be given without strings attached"
-- Failure is a chance to collaborate
-- You can harness failure/road blocks to motivate you to push through difficult things (e.g. I can't figure out an error code and that motivates me to slog through the docs for a few hours to learn and understand)
-- Everyone on a team needs to know that failure is not a bad thing
-	- Make this a frequent talking point to drive it home
-	- Blameless postmortems really help with this
 - Conflict is going to happen but it can happen in a way that helps people feel comfortable and heard
 - "Psychological safety is a sense of confidence that the team will not embarrass, reject, or punish someone for speaking up." - Amy Edmondson
 	- Joking around with people on your team who are friends isn't always perceived by outside parties as being "in jest" and can absolutely prevent people from wanting to share their thoughts or issues
 - Model vulnerability to create emotional bonds
+- "Teams that do well dealing with impact are those that have a strong common ground."
 
 ### Postmortems
 
-- Being "blameless" is almost impossible
-	- We, as humans, use blame as a way to "give voice to uncomfortable things"
-	- Instead of becoming "blameless" become "blame aware"
+- Failure is a chance to collaborate
+- Create, discuss, and share blameless postmortems
+	- Being "blameless" is almost impossible
+		- We, as humans, use blame as a way to "give voice to uncomfortable things"
+		- Instead of becoming "blameless" become "blame aware"
+- Everyone on a team needs to know that failure is not a bad thing
+	- Make this a frequent talking point to drive it home
+	- Blameless postmortems really help with this
+
+### Self Care
+
+- You are valuable even when you are not productive
+- Breathe
+	- If one deep breath is all you can do, great, but many breaths will do wonders
+	- Don't turn those breaths into a plethora of sighs
+- Be kind to yourself
+	- This pandemic situation is not normal
+	- This is not just working remotely
+	- Lower productivity is normal
+	- A global pandemic qualifies as *traumatic*
 
 ### Documentation
 
@@ -55,18 +67,6 @@ https://aparker.io/posts/deserted-island-devops/
 	- If you need something right now, maybe it's worth writing some shims to make it work for you now in the MVP state
 - Re-read docs and announcements for products/technologies every six months for things that you're waiting for since things move fast and the product might unexpectedly do exactly what you need after an surprise release
 
-### Self Care
-
-- You are valuable even when you are not productive
-1. Breathe
-	- If one deep breath is all you can do, great, but many breaths will do wonders
-	- Don't turn those breaths into a plethora of sighs
-- Be kind to yourself
-	- This pandemic situation is not normal
-	- This is not just working remotely
-	- Lower productivity is normal
-	- A global pandemic qualifies as *traumatic*
-
 ### Miscellaneous
 
 - Mob programming is when you have a bunch of people working together simultaneously on the same work at one computer with a rotation mechanic to allow multiple people to "drive" and get hands-on experience
@@ -77,4 +77,4 @@ https://aparker.io/posts/deserted-island-devops/
 - Embrace infrastructure as code
 - Your car is actually an IoT device
 - Don't accept extra requests or allow feature creep in the name of making people like you
-- "Teams that do well dealing with impact are those that have a strong common ground."
+- You can harness failure/road blocks to motivate you to push through difficult things (e.g. I can't figure out an error code and that motivates me to slog through the docs for a few hours to learn and understand)
