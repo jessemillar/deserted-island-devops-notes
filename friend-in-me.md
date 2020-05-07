@@ -24,7 +24,7 @@ Katy lives in Oakland, CA (but has lived in lots of places from East Coast to We
 - You are valuable even when you are not productive
 - You are precious and are worth time and care
 - "You are being your best self even when it feels like being your best self is not enough. It is!"
-- "Remember, if you need a friend, you've got a friend in me"
+- "Remember, if you need a friend, you've got a friend in me" - Katy Farmer
 
 ## Coping Strategies
 
